@@ -1,0 +1,13 @@
+[{
+	"name": "test",
+	"protocol": "http",
+	"domain": "www.anonews.co",
+	"paths": ["a-i-robot"],
+	"timer": 0
+}, {
+	"name": "test",
+	"protocol": "http",
+	"domain": "www.anonews.co",
+	"paths": ["a-i-robot"],
+	"timer": 0
+}]
